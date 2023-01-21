@@ -1,3 +1,4 @@
+
 const background = document.getElementById("background")
 canvas.id = "myCanvas"
 canvas.height = "300"
